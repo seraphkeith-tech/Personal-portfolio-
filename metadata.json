@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "An interactive, fully responsive developer portfolio featuring a dark theme, learning journey timeline, and live-running project simulators (Traffic Light, Rock Paper Scissors, Weather App, Task Dashboard with login, and Pokémon Searcher).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
